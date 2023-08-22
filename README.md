@@ -4,6 +4,7 @@ Characterizations of Security Culture Research Project
 Research project at the IT University of Copenhagen, spring 2023. 
 
 Author: Frederik Bøye Henriksen
+
 Supervisors: Elda Paja (elpa@itu.dk); Oksana Kulyk (okku@itu.dk)
 
 # Abstract
